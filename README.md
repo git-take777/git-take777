@@ -1,6 +1,6 @@
 ## 👋 Hi there
 
-こんにちは！私は [take777] です。
+Hello, My name is Take. My smiled Face lools like ☺️.
 
 ## 🚀 Skills
 
