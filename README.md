@@ -3,7 +3,8 @@
 Hello, My name is Take. My smiled Face lools like ☺️.
 
 ## 🚀 Skills
-
+[![My Skills](https://skillicons.dev/icons?i=ts,js,go,php,nodejs,html,css,sass,tailwind,react,vue,laravel,docker,aws,mysql,postgres,npm,yarn,&perline=10)](https://skillicons.dev)
+<!----
 ### プログラミング言語
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
@@ -16,6 +17,7 @@ Hello, My name is Take. My smiled Face lools like ☺️.
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+---->
 
 ### ツール・プラットフォーム
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
