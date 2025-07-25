@@ -2,7 +2,7 @@
 
 Hello, My name is Take. My smiled Face lools like ☺️.
 
-## 🚀 Skills
+## 🚀 Skills (business level)
 [![My Skills](https://skillicons.dev/icons?i=php,laravel,symfony,ts,js,python,django,nodejs,html,css,sass,tailwind,react,vue,docker,aws,mysql,postgres,npm,&perline=10)](https://skillicons.dev)
 <!----
 ### プログラミング言語
@@ -19,13 +19,13 @@ Hello, My name is Take. My smiled Face lools like ☺️.
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ---->
 
-### ツール・プラットフォーム
+### Tool platform  (Learning Level)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+<!-- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) --->
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
-### 統計学・データサイエンス関連
+### Statistics and Data Science (Learning Level)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white)
