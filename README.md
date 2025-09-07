@@ -32,6 +32,7 @@ Hello, My name is Take. My smiled Face lools like ☺️.
 ![Seaborn](https://img.shields.io/badge/Seaborn-4B8BBE?style=flat-square&logo=seaborn&logoColor=red)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Go](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=go&logoColor=blue)
 
 <!---
 ### 機械学習
