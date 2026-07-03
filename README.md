@@ -4,11 +4,8 @@ Hello, My name is Take. My smiled Face lools like ☺️.
 
 ## 🚀 Skills (business level)
 [![My Skills](https://skillicons.dev/icons?i=php,laravel,ts,js,python,django,nodejs,html,css,sass,tailwind,react,vue,docker,aws,mysql,postgres,npm&perline=10)](https://skillicons.dev)
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,ts,js,python,django,nodejs,html,css,sass,tailwind,react,vue,docker,aws,mysql,postgres,npm&perline=10" />
-  </a>
-  <img src="https://raw.githubusercontent.com/honojs/hono/main/docs/images/hono-title.png" height="48" alt="Hono" />
+<p>
+  <img src="https://raw.githubusercontent.com/honojs/hono/main/docs/images/hono-title.png" height="36" alt="Hono" />
 </p>
 <!----
 ### プログラミング言語
